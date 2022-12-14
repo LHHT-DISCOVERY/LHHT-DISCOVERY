@@ -16,4 +16,4 @@ Here are some ideas to get you started:-->
 ⚙️  GitHub Analytics
 </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHHT-DISCOVERY&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHHT-DISCOVERY&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHHT-DISCOVERY&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
