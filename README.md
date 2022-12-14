@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - 📫 Contact me: lytri102@gmail.com
 - 💌 Favorite quote: "Success is the ability to go from one failure to another with no loss of enthusiasm"
 
-⚙️  GitHub Analytics
+### ⚙️  GitHub Analytics
 </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHHT-DISCOVERY&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHHT-DISCOVERY&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
