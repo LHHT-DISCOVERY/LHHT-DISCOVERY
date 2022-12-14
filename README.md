@@ -12,5 +12,5 @@ Here are some ideas to get you started:-->
 - 💞️ I’m looking to collaborate on  Web Project , AI project .
 - 📫 Contact me: lytri102@gmail.com
 - 💌 Favorite quote: "Success is the ability to go from one failure to another with no loss of enthusiasm"
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHHT-DISCOVERY)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHHT-DISCOVERY&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHHT-DISCOVERY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
