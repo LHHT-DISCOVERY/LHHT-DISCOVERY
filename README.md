@@ -6,7 +6,6 @@
 Here are some ideas to get you started:-->
 
 - 👋  Hi, I’m Huu Tri from Quang Nam, Viet Nam
-- 🔭 I’m currently working on Da Nang , Viet Nam
 - 🌱 I’m currently learning Computer Engineering - Danang University of Science and Technology
 - 📫 Contact me: lytri102@gmail.com
 - 💌 Favorite quote: "Success is the ability to go from one failure to another with no loss of enthusiasm"
