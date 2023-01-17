@@ -11,6 +11,7 @@ Here are some ideas to get you started:-->
 - 💌 Favorite quote: "Success is the ability to go from one failure to another with no loss of enthusiasm "
 
 ### ⚙️ GitHub Analytics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHHT-DISCOVERY&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHHT-DISCOVERY&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
