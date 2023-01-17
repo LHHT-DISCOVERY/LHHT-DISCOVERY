@@ -11,7 +11,6 @@ Here are some ideas to get you started:-->
 - 💌 Favorite quote: "Success is the ability to go from one failure to another with no loss of enthusiasm "
 
 ### ⚙️ GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHHT-DISCOVERY&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api?username=LHHT-DISCOVERY&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LHHT-DISCOVERY&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LHHT-DISCOVERY&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -20,7 +19,6 @@ Here are some ideas to get you started:-->
 [![](https://visitcount.itsvg.in/api?id=LHHT-DISCOVERY&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHHT-DISCOVERY&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHHT-DISCOVERY&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 💻Programming Languages && Framework
