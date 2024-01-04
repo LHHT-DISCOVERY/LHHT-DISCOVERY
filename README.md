@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 👋  Hi, I’m Huu Tri from Quang Nam, Viet Nam.
+- 👋  Hi, I’m from Quang Nam, Viet Nam.
 - 🌱 I'm Computer Engineering at Da Nang University of Technology. I'm looking for jobs related to programming: Website, AI, ML .
 - 📫 Contact me: lytri102@gmail.com
 - 💌 Favorite quote: "Success is the ability to go from one failure to another with no loss of enthusiasm " .
